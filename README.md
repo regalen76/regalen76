@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👨‍💻 About Me
 
-<!--
-**regalen76/regalen76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Developer at**: PT. Mitra Mandiri Informatika Indonesia, South Jakarta
+- **Top Skills**:  
+  - Languages/Frameworks: Java, Kotlin, TypeScript, JavaScript, Go  
+  - Frontend: React, Vue, Angular, Next.js, Nuxt.js  
+  - Backend: Spring Boot  
+  - Mobile: Flutter  
+  - Messaging: RabbitMQ, Kafka
+- **Interests**:  
+  - Artificial Intelligence  
+  - Web Development  
+  - Open Source Projects
 
-Here are some ideas to get you started:
+## 🌐 Social Links
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [LinkedIn](https://www.linkedin.com/in/regalen76)
+- [Instagram](https://instagram.com/_r.galen)
